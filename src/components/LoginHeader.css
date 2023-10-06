@@ -1,0 +1,41 @@
+/*---------------Login Form Header Student -------------*/
+.activeStudent-Word {
+  color: rgb(78, 226, 78);
+  font-size: large;
+  text-decoration: none;
+}
+.no-Active-Student-Word {
+  color: rgb(116, 117, 117);
+  font-size: large;
+  text-decoration: none;
+}
+
+/*---------------Login Form Header Parent -------------*/
+.activeParent-Word {
+  color: rgb(78, 226, 78);
+  font-size: large;
+  text-decoration: none;
+}
+.no-Active-Parent-Word {
+  color: rgb(116, 117, 117);
+  font-size: large;
+  text-decoration: none;
+}
+
+/*---------------Login Form Header Staff -------------*/
+.activeStaff-Word {
+  color: rgb(78, 226, 78);
+  font-size: large;
+  text-decoration: none;
+}
+.no-Active-Staff-Word {
+  color: rgb(116, 117, 117);
+  font-size: large;
+  text-decoration: none;
+}
+.Active-Login-Header-Logo {
+  height: 60vh !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

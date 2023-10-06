@@ -1,0 +1,54 @@
+.SchoolBuiding {
+  width: 60%;
+  height: 80%;
+}
+
+.school-building-section {
+  height: 73vh;
+  background-repeat: no-repeat;
+}
+
+.school-name-span {
+  margin-top: 1.7rem;
+}
+
+.company-logo {
+  width: 30%;
+}
+
+@media screen and (min-width: 0px) and (max-width: 768px) {
+  .school-building-section-row {
+    display: none !important;
+  }
+}
+/*---------------Login Form Header Start-------------*/
+.login-form {
+  height: 60vh;
+}
+/*---------------Login Form Header End-------------*/
+
+/*---------------Signin With Google Button Start-------------*/
+.Sign-In-Google-Button {
+  width: 60%;
+}
+
+.Google-Icon {
+  top: 10px !important;
+  left: 0 !important;
+}
+/*---------------Signin With Google Button End-------------*/
+
+/* .form-control {
+  width: 120% !important;
+} */
+
+.Student-Login-Button,
+.Student-Signin-Google-Button {
+  margin-left: 3.8rem !important;
+}
+
+@media screen and (min-width: 0px) and (max-width: 768px) {
+  #school-building-section {
+    display: none !important;
+  }
+}

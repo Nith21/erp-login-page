@@ -1,0 +1,24 @@
+/* Google play STore Image */
+.Google-Play-Store-Image,
+.App-Store-Image {
+  height: 50px;
+  margin: 5px;
+  width: auto;
+  /* display: block; */
+}
+.Footer {
+  display: flex !important;
+}
+
+.Google-Play-Store-Image:hover,
+.App-Store-Image:hover {
+  cursor: pointer;
+}
+@media screen and (min-width: 0px) and (max-width: 390px) {
+  .Footer {
+    margin-top: 155px;
+  }
+  .message-icon {
+    margin-top: 100px;
+  }
+}
